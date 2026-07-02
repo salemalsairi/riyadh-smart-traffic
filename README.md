@@ -109,7 +109,7 @@ SCATS/
 ├── retrieval.py          # stage 3c: retrieves + generates an answer
 ├── dashboard.py          # stage 4: the Streamlit app
 ├── scats_results.csv     # algorithm output, read by the dashboard
-├── study_area.jpg        # map of Zone A
+├── study_area.png        # map of Zone A
 └── kapsarc_db/           # persisted Chroma vectors
 ```
 

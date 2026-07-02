@@ -22,5 +22,6 @@ Furthermore, the system features a built-in AI assistant that cross-references l
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/riyadh-smart-traffic.git](https://github.com/YOUR_USERNAME/riyadh-smart-traffic.git)
+   git clone https://github.com/salemalsairi/riyadh-smart-traffic.git
    cd riyadh-smart-traffic
+   
